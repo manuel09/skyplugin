@@ -13,7 +13,7 @@
       "version": "1.0.1",
       "folder": "StreamingCommunity",
       "language": "it",
-      "type": ["movie", "series"],
+      "type": "series",
       "description": "Italian movies and TV series from StreamingCommunity"
     },
     {
@@ -22,7 +22,7 @@
       "version": "1.0.0",
       "folder": "AltaDefinizione",
       "language": "it",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Italian movies and TV series from AltaDefinizione"
     },
     {
@@ -31,7 +31,7 @@
       "version": "1.0.0",
       "folder": "AnimeUnity",
       "language": "it",
-      "type": ["anime"],
+      "type": "anime",
       "description": "Italian anime from AnimeUnity"
     },
     {
@@ -40,7 +40,7 @@
       "version": "1.0.0",
       "folder": "AnimeWorld",
       "language": "it",
-      "type": ["anime"],
+      "type": "anime",
       "description": "Italian anime (Sub & Dub) from AnimeWorld"
     },
     {
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "folder": "CB01",
       "language": "it",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Italian movies and TV series from CB01"
     },
     {
@@ -58,7 +58,7 @@
       "version": "1.0.0",
       "folder": "Arte",
       "language": "it",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Documentaries and cultural content from Arte.tv"
     },
     {
@@ -67,7 +67,7 @@
       "version": "1.0.0",
       "folder": "CalcioStreaming",
       "language": "it",
-      "type": ["livestream"],
+      "type": "livestream",
       "description": "Italian football/soccer live streams"
     },
     {
@@ -76,7 +76,7 @@
       "version": "1.0.0",
       "folder": "DaddyLive",
       "language": "en",
-      "type": ["livestream"],
+      "type": "livestream",
       "description": "Live TV channels from DaddyLive"
     },
     {
@@ -85,7 +85,7 @@
       "version": "1.0.0",
       "folder": "Huhu",
       "language": "it",
-      "type": ["livestream"],
+      "type": "livestream",
       "description": "Italian live TV channels from Huhu"
     },
     {
@@ -94,7 +94,7 @@
       "version": "1.0.0",
       "folder": "Nebula",
       "language": "en",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Free content from Nebula streaming platform"
     },
     {
@@ -103,7 +103,7 @@
       "version": "1.0.0",
       "folder": "OnlineSerieTV",
       "language": "it",
-      "type": ["series"],
+      "type": "series",
       "description": "Italian TV series from OnlineSerieTV"
     },
     {
@@ -112,7 +112,7 @@
       "version": "1.0.0",
       "folder": "Vavoo",
       "language": "it",
-      "type": ["movie", "series", "livestream"],
+      "type": "movie",
       "description": "Movies, series and live TV from Vavoo"
     },
     {
@@ -121,7 +121,7 @@
       "version": "1.0.0",
       "folder": "CorsaroNero",
       "language": "it",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Italian torrent search from Il Corsaro Nero"
     },
     {
@@ -130,7 +130,7 @@
       "version": "1.0.0",
       "folder": "IlCorsaroViola",
       "language": "it",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Italian torrent search from Il Corsaro Viola"
     },
     {
@@ -139,7 +139,7 @@
       "version": "1.0.0",
       "folder": "Torrentio",
       "language": "en",
-      "type": ["movie", "series"],
+      "type": "movie",
       "description": "Torrent streams via Torrentio/Stremio addon"
     },
     {
@@ -148,7 +148,7 @@
       "version": "1.0.0",
       "folder": "YouTube",
       "language": "multi",
-      "type": ["movie"],
+      "type": "movie",
       "description": "YouTube video search and playback"
     },
     {
@@ -157,7 +157,7 @@
       "version": "1.0.0",
       "folder": "IPTV",
       "language": "multi",
-      "type": ["livestream"],
+      "type": "livestream",
       "description": "Live TV from Italy and Global M3U playlists"
     },
     {
@@ -166,17 +166,8 @@
       "version": "1.0.0",
       "folder": "Simkl",
       "language": "en",
-      "type": ["movie", "series", "anime"],
+      "type": "movie",
       "description": "Metadata and tracking from Simkl"
     }
-  ],
-  "plugin": [
-    {
-      "id": "com.manuel09.skyplugin.streamingcommunity",
-      "name": "StreamingCommunity",
-      "version": "1.0.1",
-      "folder": "StreamingCommunity"
-    }
-  ],
-  "repos": []
+  ]
 }
