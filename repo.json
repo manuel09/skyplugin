@@ -1,10 +1,11 @@
 {
-  "name": "doGior SkyStream Repo",
+  "name": "doGior IT Plugins",
   "id": "com.manuel09.skyplugin",
   "packageName": "com.manuel09.skyplugin",
   "author": "doGior",
   "description": "Italian streaming, anime, live TV and torrent plugins.",
-  "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/repo_icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/repo_icon.png",
+  "manifestVersion": 1,
   "plugins": [
     {
       "id": "com.manuel09.skyplugin.streamingcommunity",
@@ -168,5 +169,14 @@
       "type": ["movie", "series", "anime"],
       "description": "Metadata and tracking from Simkl"
     }
-  ]
+  ],
+  "plugin": [
+    {
+      "id": "com.manuel09.skyplugin.streamingcommunity",
+      "name": "StreamingCommunity",
+      "version": "1.0.1",
+      "folder": "StreamingCommunity"
+    }
+  ],
+  "repos": []
 }
