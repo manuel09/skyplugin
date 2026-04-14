@@ -1,9 +1,156 @@
 {
   "name": "doGior IT Plugins",
   "packageName": "com.manuel09.skyplugin",
+  "id": "com.manuel09.skyplugin",
   "description": "Italian streaming, anime, live TV and torrent plugins.",
+  "iconUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/repo_icon.png",
   "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/manuel09/skyplugin/main/plugins.json"
-  ]
+  "plugin": [
+    {
+      "id": "com.manuel09.skyplugin.streamingcommunity",
+      "name": "StreamingCommunity",
+      "version": "1.0.1",
+      "language": "it",
+      "type": "series",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/StreamingCommunity/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.altadefinizione",
+      "name": "AltaDefinizione",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AltaDefinizione/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.animeunity",
+      "name": "AnimeUnity",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "anime",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeUnity/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.animeworld",
+      "name": "AnimeWorld",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "anime",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeWorld/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.cb01",
+      "name": "CB01",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CB01/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.arte",
+      "name": "Arte",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Arte/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.calciostreaming",
+      "name": "CalcioStreaming",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "livestream",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CalcioStreaming/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.daddylive",
+      "name": "DaddyLive",
+      "version": "1.0.0",
+      "language": "en",
+      "type": "livestream",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/DaddyLive/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.huhu",
+      "name": "Huhu",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "livestream",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Huhu/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.nebula",
+      "name": "Nebula",
+      "version": "1.0.0",
+      "language": "en",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Nebula/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.onlineserietv",
+      "name": "OnlineSerieTV",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "series",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/OnlineSerieTV/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.vavoo",
+      "name": "Vavoo",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Vavoo/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.corsaronero",
+      "name": "CorsaroNero",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CorsaroNero/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.ilcorsaroviola",
+      "name": "IlCorsaroViola",
+      "version": "1.0.0",
+      "language": "it",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/IlCorsaroViola/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.torrentio",
+      "name": "Torrentio",
+      "version": "1.0.0",
+      "language": "en",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Torrentio/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.youtube",
+      "name": "YouTube",
+      "version": "1.0.0",
+      "language": "multi",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/YouTube/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.iptv",
+      "name": "IPTV",
+      "version": "1.0.0",
+      "language": "multi",
+      "type": "livestream",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/IPTV/manifest.json"
+    },
+    {
+      "id": "com.manuel09.skyplugin.simkl",
+      "name": "Simkl",
+      "version": "1.0.0",
+      "language": "en",
+      "type": "movie",
+      "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Simkl/manifest.json"
+    }
+  ],
+  "items": [],
+  "pluginLists": []
 }
