@@ -2,163 +2,199 @@
   {
     "id": "com.manuel09.skyplugin.streamingcommunity",
     "name": "StreamingCommunity",
+    "packageName": "com.manuel09.skyplugin.streamingcommunity",
     "version": "1.0.1",
-    "folder": "StreamingCommunity",
+    "author": "doGior",
+    "description": "Italian movies and TV series from StreamingCommunity",
     "language": "it",
     "type": "series",
-    "description": "Italian movies and TV series from StreamingCommunity"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/StreamingCommunity/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.altadefinizione",
     "name": "AltaDefinizione",
+    "packageName": "com.manuel09.skyplugin.altadefinizione",
     "version": "1.0.0",
-    "folder": "AltaDefinizione",
+    "author": "doGior",
+    "description": "Italian movies and TV series from AltaDefinizione",
     "language": "it",
     "type": "movie",
-    "description": "Italian movies and TV series from AltaDefinizione"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AltaDefinizione/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.animeunity",
     "name": "AnimeUnity",
+    "packageName": "com.manuel09.skyplugin.animeunity",
     "version": "1.0.0",
-    "folder": "AnimeUnity",
+    "author": "doGior",
+    "description": "Italian anime from AnimeUnity",
     "language": "it",
     "type": "anime",
-    "description": "Italian anime from AnimeUnity"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeUnity/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.animeworld",
     "name": "AnimeWorld",
+    "packageName": "com.manuel09.skyplugin.animeworld",
     "version": "1.0.0",
-    "folder": "AnimeWorld",
+    "author": "doGior",
+    "description": "Italian anime (Sub & Dub) from AnimeWorld",
     "language": "it",
     "type": "anime",
-    "description": "Italian anime (Sub & Dub) from AnimeWorld"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeWorld/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.cb01",
     "name": "CB01",
+    "packageName": "com.manuel09.skyplugin.cb01",
     "version": "1.0.0",
-    "folder": "CB01",
+    "author": "doGior",
+    "description": "Italian movies and TV series from CB01",
     "language": "it",
     "type": "movie",
-    "description": "Italian movies and TV series from CB01"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CB01/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.arte",
     "name": "Arte",
+    "packageName": "com.manuel09.skyplugin.arte",
     "version": "1.0.0",
-    "folder": "Arte",
+    "author": "doGior",
+    "description": "Documentaries and cultural content from Arte.tv",
     "language": "it",
     "type": "movie",
-    "description": "Documentaries and cultural content from Arte.tv"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Arte/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.calciostreaming",
     "name": "CalcioStreaming",
+    "packageName": "com.manuel09.skyplugin.calciostreaming",
     "version": "1.0.0",
-    "folder": "CalcioStreaming",
+    "author": "doGior",
+    "description": "Italian football/soccer live streams",
     "language": "it",
     "type": "livestream",
-    "description": "Italian football/soccer live streams"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CalcioStreaming/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.daddylive",
     "name": "DaddyLive",
+    "packageName": "com.manuel09.skyplugin.daddylive",
     "version": "1.0.0",
-    "folder": "DaddyLive",
+    "author": "doGior",
+    "description": "Live TV channels from DaddyLive",
     "language": "en",
     "type": "livestream",
-    "description": "Live TV channels from DaddyLive"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/DaddyLive/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.huhu",
     "name": "Huhu",
+    "packageName": "com.manuel09.skyplugin.huhu",
     "version": "1.0.0",
-    "folder": "Huhu",
+    "author": "doGior",
+    "description": "Italian live TV channels from Huhu",
     "language": "it",
     "type": "livestream",
-    "description": "Italian live TV channels from Huhu"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Huhu/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.nebula",
     "name": "Nebula",
+    "packageName": "com.manuel09.skyplugin.nebula",
     "version": "1.0.0",
-    "folder": "Nebula",
+    "author": "doGior",
+    "description": "Free content from Nebula streaming platform",
     "language": "en",
     "type": "movie",
-    "description": "Free content from Nebula streaming platform"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Nebula/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.onlineserietv",
     "name": "OnlineSerieTV",
+    "packageName": "com.manuel09.skyplugin.onlineserietv",
     "version": "1.0.0",
-    "folder": "OnlineSerieTV",
+    "author": "doGior",
+    "description": "Italian TV series from OnlineSerieTV",
     "language": "it",
     "type": "series",
-    "description": "Italian TV series from OnlineSerieTV"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/OnlineSerieTV/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.vavoo",
     "name": "Vavoo",
+    "packageName": "com.manuel09.skyplugin.vavoo",
     "version": "1.0.0",
-    "folder": "Vavoo",
+    "author": "doGior",
+    "description": "Movies, series and live TV from Vavoo",
     "language": "it",
     "type": "movie",
-    "description": "Movies, series and live TV from Vavoo"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Vavoo/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.corsaronero",
     "name": "CorsaroNero",
+    "packageName": "com.manuel09.skyplugin.corsaronero",
     "version": "1.0.0",
-    "folder": "CorsaroNero",
+    "author": "doGior",
+    "description": "Italian torrent search from Il Corsaro Nero",
     "language": "it",
     "type": "movie",
-    "description": "Italian torrent search from Il Corsaro Nero"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CorsaroNero/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.ilcorsaroviola",
     "name": "IlCorsaroViola",
+    "packageName": "com.manuel09.skyplugin.ilcorsaroviola",
     "version": "1.0.0",
-    "folder": "IlCorsaroViola",
+    "author": "doGior",
+    "description": "Italian torrent search from Il Corsaro Viola",
     "language": "it",
     "type": "movie",
-    "description": "Italian torrent search from Il Corsaro Viola"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/IlCorsaroViola/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.torrentio",
     "name": "Torrentio",
+    "packageName": "com.manuel09.skyplugin.torrentio",
     "version": "1.0.0",
-    "folder": "Torrentio",
+    "author": "doGior",
+    "description": "Torrent streams via Torrentio/Stremio addon",
     "language": "en",
     "type": "movie",
-    "description": "Torrent streams via Torrentio/Stremio addon"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Torrentio/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.youtube",
     "name": "YouTube",
+    "packageName": "com.manuel09.skyplugin.youtube",
     "version": "1.0.0",
-    "folder": "YouTube",
+    "author": "doGior",
+    "description": "YouTube video search and playback",
     "language": "multi",
     "type": "movie",
-    "description": "YouTube video search and playback"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/YouTube/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.iptv",
     "name": "IPTV",
+    "packageName": "com.manuel09.skyplugin.iptv",
     "version": "1.0.0",
-    "folder": "IPTV",
+    "author": "doGior",
+    "description": "Live TV from Italy and Global M3U playlists",
     "language": "multi",
     "type": "livestream",
-    "description": "Live TV from Italy and Global M3U playlists"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/IPTV/manifest.json"
   },
   {
     "id": "com.manuel09.skyplugin.simkl",
     "name": "Simkl",
+    "packageName": "com.manuel09.skyplugin.simkl",
     "version": "1.0.0",
-    "folder": "Simkl",
+    "author": "doGior",
+    "description": "Metadata and tracking from Simkl",
     "language": "en",
     "type": "movie",
-    "description": "Metadata and tracking from Simkl"
+    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Simkl/manifest.json"
   }
 ]
