@@ -1,10 +1,13 @@
 {
   "name": "doGior SkyStream Repo",
+  "id": "com.manuel09.skyplugin",
+  "packageName": "com.manuel09.skyplugin",
   "author": "doGior",
   "description": "Italian streaming, anime, live TV and torrent plugins.",
   "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/repo_icon.png",
   "plugins": [
     {
+      "id": "com.manuel09.skyplugin.streamingcommunity",
       "name": "StreamingCommunity",
       "version": "1.0.1",
       "folder": "StreamingCommunity",
@@ -13,6 +16,7 @@
       "description": "Italian movies and TV series from StreamingCommunity"
     },
     {
+      "id": "com.manuel09.skyplugin.altadefinizione",
       "name": "AltaDefinizione",
       "version": "1.0.0",
       "folder": "AltaDefinizione",
@@ -21,6 +25,7 @@
       "description": "Italian movies and TV series from AltaDefinizione"
     },
     {
+      "id": "com.manuel09.skyplugin.animeunity",
       "name": "AnimeUnity",
       "version": "1.0.0",
       "folder": "AnimeUnity",
@@ -29,6 +34,7 @@
       "description": "Italian anime from AnimeUnity"
     },
     {
+      "id": "com.manuel09.skyplugin.animeworld",
       "name": "AnimeWorld",
       "version": "1.0.0",
       "folder": "AnimeWorld",
@@ -37,6 +43,7 @@
       "description": "Italian anime (Sub & Dub) from AnimeWorld"
     },
     {
+      "id": "com.manuel09.skyplugin.cb01",
       "name": "CB01",
       "version": "1.0.0",
       "folder": "CB01",
@@ -45,6 +52,7 @@
       "description": "Italian movies and TV series from CB01"
     },
     {
+      "id": "com.manuel09.skyplugin.arte",
       "name": "Arte",
       "version": "1.0.0",
       "folder": "Arte",
@@ -53,6 +61,7 @@
       "description": "Documentaries and cultural content from Arte.tv"
     },
     {
+      "id": "com.manuel09.skyplugin.calciostreaming",
       "name": "CalcioStreaming",
       "version": "1.0.0",
       "folder": "CalcioStreaming",
@@ -61,6 +70,7 @@
       "description": "Italian football/soccer live streams"
     },
     {
+      "id": "com.manuel09.skyplugin.daddylive",
       "name": "DaddyLive",
       "version": "1.0.0",
       "folder": "DaddyLive",
@@ -69,6 +79,7 @@
       "description": "Live TV channels from DaddyLive"
     },
     {
+      "id": "com.manuel09.skyplugin.huhu",
       "name": "Huhu",
       "version": "1.0.0",
       "folder": "Huhu",
@@ -77,6 +88,7 @@
       "description": "Italian live TV channels from Huhu"
     },
     {
+      "id": "com.manuel09.skyplugin.nebula",
       "name": "Nebula",
       "version": "1.0.0",
       "folder": "Nebula",
@@ -85,6 +97,7 @@
       "description": "Free content from Nebula streaming platform"
     },
     {
+      "id": "com.manuel09.skyplugin.onlineserietv",
       "name": "OnlineSerieTV",
       "version": "1.0.0",
       "folder": "OnlineSerieTV",
@@ -93,6 +106,7 @@
       "description": "Italian TV series from OnlineSerieTV"
     },
     {
+      "id": "com.manuel09.skyplugin.vavoo",
       "name": "Vavoo",
       "version": "1.0.0",
       "folder": "Vavoo",
@@ -101,6 +115,7 @@
       "description": "Movies, series and live TV from Vavoo"
     },
     {
+      "id": "com.manuel09.skyplugin.corsaronero",
       "name": "CorsaroNero",
       "version": "1.0.0",
       "folder": "CorsaroNero",
@@ -109,6 +124,7 @@
       "description": "Italian torrent search from Il Corsaro Nero"
     },
     {
+      "id": "com.manuel09.skyplugin.ilcorsaroviola",
       "name": "IlCorsaroViola",
       "version": "1.0.0",
       "folder": "IlCorsaroViola",
@@ -117,6 +133,7 @@
       "description": "Italian torrent search from Il Corsaro Viola"
     },
     {
+      "id": "com.manuel09.skyplugin.torrentio",
       "name": "Torrentio",
       "version": "1.0.0",
       "folder": "Torrentio",
@@ -125,6 +142,7 @@
       "description": "Torrent streams via Torrentio/Stremio addon"
     },
     {
+      "id": "com.manuel09.skyplugin.youtube",
       "name": "YouTube",
       "version": "1.0.0",
       "folder": "YouTube",
@@ -133,6 +151,7 @@
       "description": "YouTube video search and playback"
     },
     {
+      "id": "com.manuel09.skyplugin.iptv",
       "name": "IPTV",
       "version": "1.0.0",
       "folder": "IPTV",
@@ -141,6 +160,7 @@
       "description": "Live TV from Italy and Global M3U playlists"
     },
     {
+      "id": "com.manuel09.skyplugin.simkl",
       "name": "Simkl",
       "version": "1.0.0",
       "folder": "Simkl",
