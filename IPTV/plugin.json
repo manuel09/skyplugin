@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.iptv",
+  "name": "IPTV",
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists",
+  "description": "Live TV from Italy and Global M3U playlists",
+  "authors": ["doGior"],
+  "languages": ["multi"],
+  "categories": ["Live Stream", "TV"]
+}

@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.daddylive",
+  "name": "DaddyLive",
+  "version": 1,
+  "baseUrl": "https://daddyhd.com",
+  "description": "Live TV channels from DaddyLive",
+  "authors": ["doGior"],
+  "languages": ["en"],
+  "categories": ["Live Stream", "TV"]
+}

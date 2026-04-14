@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.nebula",
+  "name": "Nebula",
+  "version": 1,
+  "baseUrl": "https://nebula.tv",
+  "description": "Free content from Nebula streaming platform",
+  "authors": ["doGior"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series"]
+}

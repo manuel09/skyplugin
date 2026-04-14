@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.youtube",
+  "name": "YouTube",
+  "version": 1,
+  "baseUrl": "https://yewtu.be",
+  "description": "YouTube video search and playback",
+  "authors": ["doGior"],
+  "languages": ["multi"],
+  "categories": ["Movies", "Videos"]
+}

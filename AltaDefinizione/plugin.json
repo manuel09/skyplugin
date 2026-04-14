@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.altadefinizione",
+  "name": "AltaDefinizione",
+  "version": 1,
+  "baseUrl": "https://altadefinizione.li",
+  "description": "Italian movies and TV series from AltaDefinizione",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies"]
+}

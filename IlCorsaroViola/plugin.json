@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.ilcorsaroviola",
+  "name": "IlCorsaroViola",
+  "version": 1,
+  "baseUrl": "https://ilcorsaroviola.link",
+  "description": "Italian torrent search from Il Corsaro Viola",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies", "Series", "Torrents"]
+}

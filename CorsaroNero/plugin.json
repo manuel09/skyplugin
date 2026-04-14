@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.corsaronero",
+  "name": "CorsaroNero",
+  "version": 1,
+  "baseUrl": "https://ilcorsaronero.it",
+  "description": "Italian torrent search from Il Corsaro Nero",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies", "Series", "Torrents"]
+}

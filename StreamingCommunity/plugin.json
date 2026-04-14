@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.streamingcommunity",
+  "name": "StreamingCommunity",
+  "version": 1,
+  "baseUrl": "https://streamingunity.biz",
+  "description": "Italian movies and TV series from StreamingCommunity",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies", "Series"]
+}

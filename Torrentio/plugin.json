@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.torrentio",
+  "name": "Torrentio",
+  "version": 1,
+  "baseUrl": "https://torrentio.strem.fun",
+  "description": "Torrent streams via Torrentio/Stremio addon",
+  "authors": ["doGior"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series", "Torrents"]
+}

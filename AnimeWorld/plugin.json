@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.animeworld",
+  "name": "AnimeWorld",
+  "version": 1,
+  "baseUrl": "https://animeworld.tv",
+  "description": "Italian anime from AnimeWorld",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Anime"]
+}

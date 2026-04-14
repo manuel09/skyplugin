@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.vavoo",
+  "name": "Vavoo",
+  "version": 1,
+  "baseUrl": "https://vavoo.to",
+  "description": "Movies, series and live TV from Vavoo",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies", "Series", "TV"]
+}

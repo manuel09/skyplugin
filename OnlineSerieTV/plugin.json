@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.onlineserietv",
+  "name": "OnlineSerieTV",
+  "version": 1,
+  "baseUrl": "https://onlineserietv.video",
+  "description": "Italian TV series from OnlineSerieTV",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Series"]
+}

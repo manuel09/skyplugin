@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.huhu",
+  "name": "Huhu",
+  "version": 1,
+  "baseUrl": "https://huhu.to",
+  "description": "Italian live TV channels from Huhu",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Live Stream", "TV"]
+}

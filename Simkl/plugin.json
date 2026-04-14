@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.simkl",
+  "name": "Simkl",
+  "version": 1,
+  "baseUrl": "https://simkl.com",
+  "description": "Metadata and tracking from Simkl",
+  "authors": ["doGior"],
+  "languages": ["en"],
+  "categories": ["Movies", "Series", "Anime"]
+}

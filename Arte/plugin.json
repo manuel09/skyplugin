@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.arte",
+  "name": "Arte",
+  "version": 1,
+  "baseUrl": "https://www.arte.tv/it",
+  "description": "Documentaries and cultural content from Arte.tv",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies", "Documentaries"]
+}

@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.cb01",
+  "name": "CB01",
+  "version": 1,
+  "baseUrl": "https://cb01.tube",
+  "description": "Italian movies and TV series from CB01",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Movies", "Series"]
+}

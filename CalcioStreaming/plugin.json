@@ -1,0 +1,10 @@
+{
+  "packageName": "com.manuel09.skyplugin.calciostreaming",
+  "name": "CalcioStreaming",
+  "version": 1,
+  "baseUrl": "https://calciostreaming.click",
+  "description": "Italian football/soccer live streams",
+  "authors": ["doGior"],
+  "languages": ["it"],
+  "categories": ["Sports", "Live Stream"]
+}
