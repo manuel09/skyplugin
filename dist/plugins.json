@@ -8,7 +8,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/StreamingCommunity/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.streamingcommunity.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.altadefinizione",
@@ -19,7 +19,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AltaDefinizione/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.altadefinizione.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.animeunity",
@@ -30,7 +30,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Anime"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeUnity/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.animeunity.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.animeworld",
@@ -41,7 +41,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Anime"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/AnimeWorld/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.animeworld.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.cb01",
@@ -52,7 +52,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CB01/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.cb01.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.arte",
@@ -63,7 +63,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Documentaries"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Arte/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.arte.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.calciostreaming",
@@ -74,7 +74,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Sports", "Live Stream"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CalcioStreaming/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.calciostreaming.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.daddylive",
@@ -85,7 +85,7 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Live Stream", "TV"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/DaddyLive/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.daddylive.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.huhu",
@@ -96,7 +96,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Live Stream", "TV"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Huhu/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.huhu.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.nebula",
@@ -107,7 +107,7 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Movies", "Series"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Nebula/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.nebula.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.onlineserietv",
@@ -118,7 +118,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Series"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/OnlineSerieTV/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.onlineserietv.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.vavoo",
@@ -129,7 +129,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series", "TV"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Vavoo/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.vavoo.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.corsaronero",
@@ -140,7 +140,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series", "Torrents"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/CorsaroNero/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.corsaronero.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.ilcorsaroviola",
@@ -151,7 +151,7 @@
     "authors": ["doGior"],
     "languages": ["it"],
     "categories": ["Movies", "Series", "Torrents"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/IlCorsaroViola/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.ilcorsaroviola.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.torrentio",
@@ -162,7 +162,7 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Movies", "Series", "Torrents"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Torrentio/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.torrentio.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.youtube",
@@ -173,7 +173,7 @@
     "authors": ["doGior"],
     "languages": ["multi"],
     "categories": ["Movies", "Videos"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/YouTube/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.youtube.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.iptv",
@@ -184,7 +184,7 @@
     "authors": ["doGior"],
     "languages": ["multi"],
     "categories": ["Live Stream", "TV"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/IPTV/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.iptv.sky"
   },
   {
     "packageName": "com.manuel09.skyplugin.simkl",
@@ -195,6 +195,6 @@
     "authors": ["doGior"],
     "languages": ["en"],
     "categories": ["Movies", "Series", "Anime"],
-    "manifestUrl": "https://raw.githubusercontent.com/manuel09/skyplugin/main/Simkl/plugin.json"
+    "url": "https://raw.githubusercontent.com/manuel09/skyplugin/main/dist/com.manuel09.skyplugin.simkl.sky"
   }
 ]
