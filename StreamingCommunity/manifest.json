@@ -1,0 +1,9 @@
+{
+  "name": "StreamingCommunity",
+  "baseUrl": "https://streamingunity.biz",
+  "version": "1.0.0",
+  "author": "doGior",
+  "description": "Italian movies and TV series from StreamingCommunity",
+  "language": "it",
+  "type": ["movie", "series"]
+}

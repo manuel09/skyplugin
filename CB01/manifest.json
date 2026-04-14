@@ -1,0 +1,9 @@
+{
+  "name": "CB01",
+  "baseUrl": "https://cb01uno.uno",
+  "version": "1.0.0",
+  "author": "doGior",
+  "description": "Italian movies and TV series from CB01",
+  "language": "it",
+  "type": ["movie", "series"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dogiors-skystream-plugins",
+  "version": "1.0.0",
+  "description": "Italian streaming plugins for SkyStream - ported from doGiorsHadEnough CloudStream plugins",
+  "author": "doGior",
+  "license": "MIT",
+  "scripts": {
+    "test:home": "skystream test -f getHome",
+    "test:search": "skystream test -f search -q",
+    "test:load": "skystream test -f load -q",
+    "test:streams": "skystream test -f loadStreams -q"
+  },
+  "devDependencies": {}
+}

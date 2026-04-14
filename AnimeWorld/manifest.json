@@ -1,0 +1,9 @@
+{
+  "name": "AnimeWorld",
+  "baseUrl": "https://www.animeworld.so",
+  "version": "1.0.0",
+  "author": "doGior",
+  "description": "Italian anime (Sub & Dub) from AnimeWorld",
+  "language": "it",
+  "type": ["anime"]
+}

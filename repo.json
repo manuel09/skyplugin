@@ -1,0 +1,152 @@
+{
+  "name": "doGior SkyStream Repo",
+  "author": "doGior",
+  "description": "Italian streaming, anime, live TV and torrent plugins.",
+  "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/repo_icon.png",
+  "plugins": [
+    {
+      "name": "StreamingCommunity",
+      "version": "1.0.1",
+      "folder": "StreamingCommunity",
+      "language": "it",
+      "type": ["movie", "series"],
+      "description": "Italian movies and TV series from StreamingCommunity"
+    },
+    {
+      "name": "AltaDefinizione",
+      "version": "1.0.0",
+      "folder": "AltaDefinizione",
+      "language": "it",
+      "type": ["movie", "series"],
+      "description": "Italian movies and TV series from AltaDefinizione"
+    },
+    {
+      "name": "AnimeUnity",
+      "version": "1.0.0",
+      "folder": "AnimeUnity",
+      "language": "it",
+      "type": ["anime"],
+      "description": "Italian anime from AnimeUnity"
+    },
+    {
+      "name": "AnimeWorld",
+      "version": "1.0.0",
+      "folder": "AnimeWorld",
+      "language": "it",
+      "type": ["anime"],
+      "description": "Italian anime (Sub & Dub) from AnimeWorld"
+    },
+    {
+      "name": "CB01",
+      "version": "1.0.0",
+      "folder": "CB01",
+      "language": "it",
+      "type": ["movie", "series"],
+      "description": "Italian movies and TV series from CB01"
+    },
+    {
+      "name": "Arte",
+      "version": "1.0.0",
+      "folder": "Arte",
+      "language": "it",
+      "type": ["movie", "series"],
+      "description": "Documentaries and cultural content from Arte.tv"
+    },
+    {
+      "name": "CalcioStreaming",
+      "version": "1.0.0",
+      "folder": "CalcioStreaming",
+      "language": "it",
+      "type": ["livestream"],
+      "description": "Italian football/soccer live streams"
+    },
+    {
+      "name": "DaddyLive",
+      "version": "1.0.0",
+      "folder": "DaddyLive",
+      "language": "en",
+      "type": ["livestream"],
+      "description": "Live TV channels from DaddyLive"
+    },
+    {
+      "name": "Huhu",
+      "version": "1.0.0",
+      "folder": "Huhu",
+      "language": "it",
+      "type": ["livestream"],
+      "description": "Italian live TV channels from Huhu"
+    },
+    {
+      "name": "Nebula",
+      "version": "1.0.0",
+      "folder": "Nebula",
+      "language": "en",
+      "type": ["movie", "series"],
+      "description": "Free content from Nebula streaming platform"
+    },
+    {
+      "name": "OnlineSerieTV",
+      "version": "1.0.0",
+      "folder": "OnlineSerieTV",
+      "language": "it",
+      "type": ["series"],
+      "description": "Italian TV series from OnlineSerieTV"
+    },
+    {
+      "name": "Vavoo",
+      "version": "1.0.0",
+      "folder": "Vavoo",
+      "language": "it",
+      "type": ["movie", "series", "livestream"],
+      "description": "Movies, series and live TV from Vavoo"
+    },
+    {
+      "name": "CorsaroNero",
+      "version": "1.0.0",
+      "folder": "CorsaroNero",
+      "language": "it",
+      "type": ["movie", "series"],
+      "description": "Italian torrent search from Il Corsaro Nero"
+    },
+    {
+      "name": "IlCorsaroViola",
+      "version": "1.0.0",
+      "folder": "IlCorsaroViola",
+      "language": "it",
+      "type": ["movie", "series"],
+      "description": "Italian torrent search from Il Corsaro Viola"
+    },
+    {
+      "name": "Torrentio",
+      "version": "1.0.0",
+      "folder": "Torrentio",
+      "language": "en",
+      "type": ["movie", "series"],
+      "description": "Torrent streams via Torrentio/Stremio addon"
+    },
+    {
+      "name": "YouTube",
+      "version": "1.0.0",
+      "folder": "YouTube",
+      "language": "multi",
+      "type": ["movie"],
+      "description": "YouTube video search and playback"
+    },
+    {
+      "name": "IPTV",
+      "version": "1.0.0",
+      "folder": "IPTV",
+      "language": "multi",
+      "type": ["livestream"],
+      "description": "Live TV from Italy and Global M3U playlists"
+    },
+    {
+      "name": "Simkl",
+      "version": "1.0.0",
+      "folder": "Simkl",
+      "language": "en",
+      "type": ["movie", "series", "anime"],
+      "description": "Metadata and tracking from Simkl"
+    }
+  ]
+}

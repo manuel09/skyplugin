@@ -1,0 +1,9 @@
+{
+  "name": "AnimeUnity",
+  "baseUrl": "https://www.animeunity.so",
+  "version": "1.0.0",
+  "author": "doGior",
+  "description": "Italian anime from AnimeUnity",
+  "language": "it",
+  "type": ["anime"]
+}

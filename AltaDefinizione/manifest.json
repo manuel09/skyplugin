@@ -1,0 +1,9 @@
+{
+  "name": "AltaDefinizione",
+  "baseUrl": "https://altadefinizionez.skin",
+  "version": "1.0.0",
+  "author": "doGior",
+  "description": "Italian movies and TV series from AltaDefinizione",
+  "language": "it",
+  "type": ["movie", "series"]
+}
